@@ -1,0 +1,24 @@
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+
+
+# Python specific
+*.log
+*.sqlite3
+
+# Chroma DB
+chroma_db/
+
+# Streamlit
+*.streamlit/
