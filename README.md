@@ -28,21 +28,21 @@ A Retrieval-Augmented Generation (RAG) application that scrapes content from URL
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/Samarth375-hub/rag_based_project.git
-cd rag_based_project
+- git clone https://github.com/Samarth375-hub/rag_based_project.git
+- cd rag_based_project
 
 ### 2. Create a virtual environment
-python -m venv venv
-Windows:
-venv\Scripts\activate
-macOS/Linux:
-source venv/bin/activate
+python -m venv venv <br>
+Windows: <br>
+venv\Scripts\activate <br>
+macOS/Linux: <br>
+source venv/bin/activate <br>
 
 ### 3. Install Dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 
 ### 4. Install and run Ollama
-Downlaod and install Ollama
+Downlaod and install Ollama <br>
 Run your model
 
 ### 5. Run the App
